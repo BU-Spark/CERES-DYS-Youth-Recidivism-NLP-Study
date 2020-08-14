@@ -2,4 +2,4 @@
 
 For the complete case notes topic modeling, refer to "nlp_model.ipynb"
 
-For the seprate varibles topic modeling, refer to ""
+For the 10 seperate subsets topic modeling, refer to "nlp_medel_seperate_subsets.ipynb"
