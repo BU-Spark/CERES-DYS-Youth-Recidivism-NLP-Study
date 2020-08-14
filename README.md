@@ -13,7 +13,7 @@ This folder contains all contributors' visualiation code for all Quant Data
 This folder contains all code about topic modeling for Qual Data
 ### 4)Output_Images
 This folder contains important output images from codes
-### 4) YES_Presentation Slides
+### 5) YES_Presentation Slides
 This a simple slide to present works so far (by 8/14/2020)
 
 ## NOTE:
