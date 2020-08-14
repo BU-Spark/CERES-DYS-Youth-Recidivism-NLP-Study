@@ -11,7 +11,7 @@ This folder contains all versions of data cleaning code which include but not li
 This folder contains all contributors' visualiation code for all Quant Data
 ### 3)Topic_Modeling 
 This folder contains all code about topic modeling for Qual Data
-### 4)Output_Visualizaiton
+### 4)Output_Images
 This folder contains important output images from codes
 ### 4) YES_Presentation Slides
 This a simple slide to present works so far (by 8/14/2020)
