@@ -4,13 +4,15 @@ Examining Department of Youth caseworker notes along with demographic data of yo
 
 
 ## Repo Structure:
-This GitHub Repo contains 3 main folders and 1 presentation slide:
+This GitHub Repo contains 4 main folders and 1 presentation slide:
 ### 1) Data_Cleaning
 This folder contains all versions of data cleaning code which include but not limited to merge spreadsheets and check duplicates.
 ### 2)Data_Visualization
 This folder contains all contributors' visualiation code for all Quant Data
 ### 3)Topic_Modeling 
 This folder contains all code about topic modeling for Qual Data
+### 4)Output_Visualizaiton
+This folder contains important output images from codes
 ### 4) YES_Presentation Slides
 This a simple slide to present works so far (by 8/14/2020)
 
